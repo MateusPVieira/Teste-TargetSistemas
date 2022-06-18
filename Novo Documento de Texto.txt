@@ -1,0 +1,44 @@
+1) Ao final do processamento, o valor da variável SOMA será 91
+
+3) 
+a) 9
+b) 128
+c) 49
+d) 100
+e) 13
+f) 200
+
+4)
+Ambos em Movimento Uniforme Constante
+Vcarro = 110 Km/h 
+Vcaminhão = 80 Km/h
+Distância = 100Km
+Usando a velocidade dos dois como um móvel só para descobrir o tempo do encontro:
+Vm = 190Km/h
+Se em 190Km são percorridos em 60min, 100Km serão percorridos em aprox 31 minutos
+
+Supondo que o caminhão pare nos dois pedagios antes do encontro:
+31 + 10 minutos => 41 minutos
+Durante os 31 minutos rodando + 10 min parado, o caminhão percorreu aprox.: 40km
+Durante os 41 minutos rodando, o carro percorreu aprox.: 75Km
+Distância do caminhão em relação a ribeirao preto: 60 Km
+Distância do carro em relação a ribeirao preto: 75Km
+O caminhão estará mais perto de Ribeirão no momento do encontro.
+
+
+Supondo que o caminhão não pare nos dois pedagios antes do encontro:
+Durante os 31 minutos rodando, o caminhão percorreu aprox.: 40Km
+Durante os 31 minutos rodando, o carro percorreu aprox.: 56Km
+Distância do caminhão em relação a ribeirao preto: 60 Km
+Distância do carro em relação a ribeirao preto: 56Km
+O carro estará mais perto de Ribeirão no momento do encontro.
+
+
+Supondo que o caminhão pare em um dos pedagios antes do encontro:
+31 + 5 minutos => 36 minutos
+Durante os 31 minutos rodando + 5 min parado, o caminhão percorreu aprox.: 40Km
+Durante os 36 minutos rodando, o carro percorreu aprox.: 65Km
+Distância do caminhão em relação a ribeirao preto: 60 Km
+Distância do carro em relação a ribeirao preto: 65Km
+O caminhão estará mais perto de Ribeirão no momento do encontro.
+
